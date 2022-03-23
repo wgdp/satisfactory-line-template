@@ -3,6 +3,7 @@
 ## これは何
 
 Satisfactoryのラインテンプレートです。基本自分用に書いてます。
+
 Statisfactoryについては、
 
 [Satisfactory(Steam)](https://store.steampowered.com/app/526870/Satisfactory/?l=japanese)
